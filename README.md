@@ -2,7 +2,20 @@
 
 A repository for exploring Mixture Density Networks (MDNs) in scientific machine learning applications. This package demonstrates how MDNs provide a principled, data-efficient alternative to diffusion and flow-based models for capturing multimodal conditional uncertainty in scientific problems.
 
-This work supports the paper **"Multimodal Scientific Learning Beyond Diffusions and Flows"**.
+This work supports the paper **"Multimodal Scientific Learning Beyond Diffusions and Flows"**: https://arxiv.org/abs/2602.00960
+
+If you find the code in this repository useful and would like to cite it, please do so as:
+```
+@misc{guilhoto2026multimodalscientificlearningdiffusions,
+      title={Multimodal Scientific Learning Beyond Diffusions and Flows}, 
+      author={Leonardo Ferreira Guilhoto and Akshat Kaushal and Paris Perdikaris},
+      year={2026},
+      eprint={2602.00960},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.00960}, 
+}
+```
 
 ## Abstract
 
